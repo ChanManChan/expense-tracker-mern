@@ -18,10 +18,13 @@ body {
   margin: 0;
   font-family: 'Lato', sans-serif;
 }
+#root {
+  width: 50vw;
+}
 
 .container {
   margin: 30px auto;
-  width: 450px;
+  width: 50%;
 }
 
 h1 {
@@ -150,6 +153,6 @@ input[type='number'] {
   opacity: 1;
 }
 
-.date-added{
-  color:#ff0000
+.date-added {
+  color: #ff0000;
 }
